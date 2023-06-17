@@ -4,4 +4,6 @@ TextUtils is a versatile and user-friendly online platform that offers a wide ra
 
 From grammar and spell-checking to word counting and character analysis, TextWizard provides a comprehensive suite of tools designed to elevate your writing prowess. Say goodbye to typos and embarrassing mistakes as our intelligent algorithms meticulously analyze your text, ensuring flawless grammar and spelling.
 
+Live Demo: https://text-utils-jet-sigma.vercel.app/
+
 ![alt text](./R1.png)
